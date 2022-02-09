@@ -15,7 +15,7 @@ The course of "Methods of detecting cyber attacks" by Ariel University in academ
 
 ## Challenge[](#challenge)
 
-Future additions are planned.
+According to the introduction, this is the "Malware Detection and Classification Challenge". There are datasets in the [folder](./CISCO%20challenge/datasets) that we received for different phases, but the dataset for Zero-day isn't there. No changes were made to the file [code](./CISCO%20challenge/code.ipynb) for all phases. A [presentation](./CISCO%20challenge/slides.pptx) file was presented to the CISCO judges. In the Zero-day phase, the second place was taken, but the overall result is 1st place.
 
 ---
 
