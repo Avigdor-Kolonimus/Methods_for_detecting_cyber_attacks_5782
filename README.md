@@ -21,7 +21,9 @@ According to the introduction, this is the "Malware Detection and Classification
 
 ## Project[](#project)
 
-Future additions are planned.
+Cyber criminals are always looking for effective vectors to deliver malware to victims in order to launch an attack. Images are used on a daily basis by millions of people around the world, and most users consider images to be safe for use; however, some types of images can contain a malicious payload and perform harmful actions. In this [paper](https://ieeexplore.ieee.org/document/8967109/authors#authors), Aviad Cohen, Nir Nissim and Yuval Elovici present MalJPEG, the first machine learning-based solution tailored specifically at the efficient detection of unknown malicious JPEG images. MalJPEG statically extracts 10 simple yet discriminative features from the JPEG file structure and leverages them with a machine learning classifier, in order to discriminate between benign and malicious JPEG images. Most of the papers can be found on JPEG images focused on steganography methods, steganography analysis (steganalysis) methods, or adversarial images. The project’s contributions are as follows:
+* For comparative studies, Aviad Cohen, Nir Nissim and Yuval Elovici used the histogram image as features. My experiment with histogram equalization and quantization will demonstrate how image processing affects the result.
+* The MalJPEG uses 10 markers. In my project, I found new markers and demonstrated their information gain rank for further work.
 
 ---
 
